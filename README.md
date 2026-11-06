@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./header.png" width="100%" alt="MOJTABA ATLAS">
+  <img src="./header.jpg" width="100%" alt="MOJTABA ATLAS">
 </p>🖥️ سامانه هوشمند پایش زیرساخت شبکه
 
 NETWORK MONITORING & INFRASTRUCTURE ANALYSIS
