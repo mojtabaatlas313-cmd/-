@@ -1,6 +1,7 @@
-<p align="center">
-  <img src="./header.jpg" width="100%" alt="MOJTABA ATLAS">
-</p>🖥️ سامانه هوشمند پایش زیرساخت شبکه
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mojtabaatlas313-cmd/-/develop/file_000000003ba481f48873da3709554683.png" width="100%">
+</div>
+🖥️ سامانه هوشمند پایش زیرساخت شبکه
 
 NETWORK MONITORING & INFRASTRUCTURE ANALYSIS
 
